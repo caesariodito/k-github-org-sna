@@ -14,5 +14,4 @@ Access this [link](https://caesariodito.github.io/k-github-org-sna/)!
 ### Image Preview
 ![Image of Github SNA](overview/sna-preview.png)
 
-### GIF Preview
-![Gif of Github SNA](overview/SNA%20demo.gif)
+### GIF Preview [here](overview/SNA%20demo.gif)
