@@ -8,6 +8,9 @@ You can access the dataset that we used in this project [here](https://www.kaggl
 
 You can access the document of the project (Indonesian) [here](overview/IR%20-%20SNA%20-%20Github%20Org.pdf)!
 
+### Live Preview
+Access this [link](https://caesariodito.github.io/k-github-org-sna/)!
+
 ### Image Preview
 ![Image of Github SNA](overview/sna-preview.png)
 
