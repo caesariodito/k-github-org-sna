@@ -1,0 +1,4 @@
+- The html file is the output for the SNA graph
+- GIF file show the dmeo
+- [presentation.pdf](overview/presentation.pdf) shows the powerpoint file from our project (in Indonesian)
+- The [other](overview/IR%20-%20SNA%20-%20Github%20Org.pdf) pdf is the theories and documents for this project
