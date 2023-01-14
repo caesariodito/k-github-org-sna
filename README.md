@@ -1,5 +1,9 @@
 # Social Network Analysis on Github Organization
 
+## Made by
+- @[caesariodito](https://github.com/caesariodito)
+- @[imniwa](https://github.com/imniwa)
+
 This is a project from a subject called "Information Retrieval"
 
 You can access the dataset that we used in this project [here](https://www.kaggle.com/datasets/anshulmehtakaggl/github-organizations-social-network-analysis)
