@@ -3,6 +3,7 @@
 ## Made by
 - @[caesariodito](https://github.com/caesariodito)
 - @[imniwa](https://github.com/imniwa)
+- @[riveong](https://github.com/Riveong)
 
 This is a project from a subject called "Information Retrieval"
 
